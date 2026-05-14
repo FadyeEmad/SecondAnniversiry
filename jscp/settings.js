@@ -9,7 +9,7 @@ let settings = {
     matrixText: 'HAPPYBIRTHDAY',
     matrixColor1: '#ff69b4', // Màu pink mẫu
     matrixColor2: '#ff1493', // Màu pink mẫu
-    sequence: 'HAPPY|BIRTHDAY|TO|MAVI|❤',
+    sequence: 'HAPPY|Second|Anniversiry|❤',
     sequenceColor: '#ff69b4', // Màu pink mẫu
     gift: './image/happy3.gif',
     enableBook: true,
@@ -25,7 +25,7 @@ let settings = {
             // --- Lembar 2 (data-page="1") ---
             { 
                 image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
-                content: 'Happy Birthday Mavi 💗' 
+                content: 'It all started with a look 2 years ago today💫' 
             },
             { 
                 image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
@@ -34,7 +34,7 @@ let settings = {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b4.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'I’m really grateful to know you.' 
+                content: '730 days of making memories with you🫶🏻' 
             },
             { 
                 image: './image/photos/b5.png', // Menggantikan 8u5tf7.png (Index 3)
@@ -43,7 +43,7 @@ let settings = {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b7.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'You’re a genuinely kind person, and it truly means a lot.' 
+                content: 'Every moment with you is my favorite memory❤✨.' 
             }
            ,
             { 
@@ -53,7 +53,7 @@ let settings = {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b9.png', // Menggantikan tbutvj.png (Index 4)
-               content: ' Wishing you all the best .' 
+               content: ' Two years down a lifetime to go❤️👀.' 
 
             } 
     ],
@@ -370,9 +370,8 @@ function initializeDefaultSettings() {
         matrixText: 'HAPPYBIRTHDAY',
         matrixColor1: '#ff69b4', // Màu pink mẫu
         matrixColor2: '#ff1493', // Màu pink mẫu
-        sequence: 'HAPPY|BIRTHDAY|TO|MAVI|❤',
+        sequence: 'HAPPY| Second| Anniversiry|❤',
         sequenceColor: '#ff69b4', // Màu pink mẫu
-        gift: './image/happy3.gif',
         enableBook: true,
         enableHeart: true,
         isSave: false,  
@@ -389,7 +388,7 @@ function initializeDefaultSettings() {
             // --- Lembar 2 (data-page="1") ---
             { 
                 image: './image/photos/b2.png', // Menggantikan fjr3qh.png (Index 2)
-                content: 'Happy Birthday Mavi 💗' 
+                content: 'It all started with a look 2 years ago today💫' 
             },
             { 
                 image: './image/photos/b3.png', // Menggantikan 8u5tf7.png (Index 3)
@@ -398,7 +397,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b4.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'I’m really grateful to know you.' 
+                content: '730 days of making memories with you🫶🏻.' 
             },
             { 
                 image: './image/photos/b5.png', // Menggantikan 8u5tf7.png (Index 3)
@@ -407,7 +406,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b7.png', // Menggantikan tbutvj.png (Index 4)
-                content: 'You’re a genuinely kind person, and it truly means a lot.' 
+                content: 'Every moment with you is my favorite memory❤✨.' 
             }
            ,
             { 
@@ -417,7 +416,7 @@ function initializeDefaultSettings() {
             // --- Lembar 3 (data-page="2") ---
             { 
                 image: './image/photos/b9.png', // Menggantikan tbutvj.png (Index 4)
-               content: ' Wishing you all the best .' 
+               content: ' Two years down a lifetime to go❤️👀.' 
 
             } 
              ]
